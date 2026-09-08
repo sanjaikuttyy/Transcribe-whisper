@@ -1,4 +1,4 @@
-moviepy==1.0.3
+moviepy==2.2.1
 openai==0.27.4
 openai-whisper==20230308
 pydub==0.25.1
